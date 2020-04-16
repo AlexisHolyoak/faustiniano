@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2020-04-16T17:06:42.290Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36 OPR/67.0.3575.137" etag="hTSuoxKyxrt-fq42KYVg" version="12.8.6" type="github"><diagram id="0RSpLNbLScIbGe8ZLiit" name="Page-1">zZdRT4MwEMc/DY9LgA42HhnibKJMYWh8bEYFIqxYO9n89BYpMKwm+iJ9Ie3/2mv7u+PSasArj2uKquyGJLjQTD05auBCM03HWfJvI5xawZoLIaV50krGIET5OxaiLtRDnuDX0UBGSMHyaizuyH6Pd2ykIUpJPR72RIrxqhVKsSREO1TI6kOesKxVl+Zi0K9wnmbdyobttJYSdYPFSV4zlJD6TAK+BjxKCGtb5dHDRcOu49LOu/zB2m+M4j37zYTqPZxZjy8v9votZc/hrJrBZCa8vKHiIA5864fRJnAjsWl26khQctgnuHGma2BVZznDUYV2jbXmoedaxsqC9wzeFG4xZfj4436NngLPHkxKzOiJDxETLMFNJI6xEP16CIPRsc3OQmALDYnIp73nAQ5vCD5/YGVKrOIodkO4UY+VPjWrucQKBncxvIaBArT64qJMalkSrovY1zygOcZGPVyTZ5ct4fJvbkM/cidnBWzVWC0kVl7sB9umwOuqULN01agtJWorN/AUqF22cqXekVBduSu4dT24CfzpgRlgDKwHMRmwrpyeX7rctQK5ZX0pXuZyclTf3E9bVPo9DLexe61Ahs2//JJg+gyTr6odtksYQSXqmP1/0Hh3eGZ92s7eqsD/AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-04-16T20:35:29.207Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36 OPR/67.0.3575.137" etag="SVJ0iTEdMDuKLX13uOnz" version="12.9.13" type="github">
+  <diagram id="0RSpLNbLScIbGe8ZLiit" name="Page-1">
+    <mxGraphModel dx="998" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pzR-5Yqq6GvgtkR-p-Id-1" value="PERSONAS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pzR-5Yqq6GvgtkR-p-Id-2" value="USUARIOS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n4iATBKqcI-3AhqBi3jB-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pzR-5Yqq6GvgtkR-p-Id-4" target="n4iATBKqcI-3AhqBi3jB-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pzR-5Yqq6GvgtkR-p-Id-4" value="INQUILINO" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pzR-5Yqq6GvgtkR-p-Id-5" value="DUEÑO" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pzR-5Yqq6GvgtkR-p-Id-6" value="EMPRESA" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pzR-5Yqq6GvgtkR-p-Id-7" value="CUENTAS EMPRESA" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pzR-5Yqq6GvgtkR-p-Id-8" value="BANCOS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="650" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n4iATBKqcI-3AhqBi3jB-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="pzR-5Yqq6GvgtkR-p-Id-9" target="n4iATBKqcI-3AhqBi3jB-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pzR-5Yqq6GvgtkR-p-Id-9" value="HABITACIONES" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pzR-5Yqq6GvgtkR-p-Id-10" value="PAGOS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pzR-5Yqq6GvgtkR-p-Id-11" value="PAGOS VIRTUALES" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pzR-5Yqq6GvgtkR-p-Id-12" value="PAGOS FISICOS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="720" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n4iATBKqcI-3AhqBi3jB-1" value="SERVICIOS ADICIONALES" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n4iATBKqcI-3AhqBi3jB-3" value="SERVICIOS ADICIONALES POR HABITACIÓN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n4iATBKqcI-3AhqBi3jB-4" value="INQUILINOS EN UNA HABITACIÓN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n4iATBKqcI-3AhqBi3jB-5" value="PERIODOS DE PAGOS DE HABITACIÓN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n4iATBKqcI-3AhqBi3jB-6" value="ACOMPAÑANTES" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
